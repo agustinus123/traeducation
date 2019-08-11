@@ -182,8 +182,6 @@ body {
 /* Post card */
 .traeducation-post-card {
     width: 100%;
-    max-width: 500px;
-    margin: auto;
     display: block;
 
 }
@@ -191,5 +189,5 @@ body {
 /* Mengatur agar heading latest post ke tengah */
 .traeducation-kolom-post h5 {
     text-align: center;
-    
+
 }
