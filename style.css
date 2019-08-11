@@ -1,0 +1,195 @@
+/* BLOGGER TEMPLATE CSS */
+
+/* HTML Body */
+body {
+    background: #fafafa;
+}
+
+
+/* Sidebar responsive kolom fix */
+@media (max-width: 839px) and (min-width: 480px) {
+.traeducation-kolom-sidebar {
+    width: calc(100% - 16px);
+    
+
+}
+
+}
+
+/* Post Wrapper */
+.traeducation-post-wrapper {
+    background: transparent;
+    float: left;
+    width: 80%;
+    max-width: 700px;
+    margin: 0 0 10px;
+    box-shadow: 0px 1px 2px 0px rgba(60,64,67,0.3), 0px 1px 3px 1px rgba(60,64,67,0.15);
+}
+
+/* Sidebar Kontainer */
+.sidebar-container {
+    box-shadow: 0px 1px 2px 0px rgba(60,64,67,0.3), 0px 1px 3px 1px rgba(60,64,67,0.15);
+}
+
+/* Sidebar Wrapper */
+#sidebar-wrapper {
+    background: transparent;
+    float: right;
+    width: 30%;
+    max-width: 300px;
+    margin: 0 auto;
+}
+/* Konten Kontainer Wrapper */
+.traeducation-wrapper {
+    max-width: 1000px;
+    background: transparent;
+    margin: 0 auto;
+    overflow: hidden;
+    
+}
+/* Konten Grid */
+.traeducation-content-grid{
+    max-width: 1000px;
+}
+
+/* Kolom konten post */
+.traeducation-kolom-post {
+    background: #fff;
+    box-shadow: 0px 1px 2px 0px rgba(60,64,67,0.3), 0px 1px 3px 1px rgba(60,64,67,0.15);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Kolom sidebar */
+.traeducation-kolom-sidebar {
+    background: #fff;
+    box-shadow: 0px 1px 2px 0px rgba(60,64,67,0.3), 0px 1px 3px 1px rgba(60,64,67,0.15);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Text footer */
+.traeducation-mini-footer-link {
+    color: white;
+}
+
+.traeducation-mini-footer-link a:hover{
+    color: #e0e0e0;
+}
+
+/* Dummy ads 970 responsive */
+.banner970 {
+    background: #e3e3e3;
+    padding: 0;
+    max-width: 970px;
+    width: 100%;
+    height: 90px;
+    overflow: hidden;
+}
+
+/* Dummy ads 970px responsive title */
+.banner970 .title970 {
+    font-weight: 500;
+    font-size: 24px;
+    padding: 32px;
+    color: #555;
+    text-align: center;
+
+}
+
+/* Iklan sidebar dummy */
+.banner-sidebar300 {
+    background: #e3e3e3;
+    padding: 0;
+    max-width: 300px;
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+}
+
+.banner-sidebar-title300 {
+    font-weight: 500;
+    font-size: 24px;
+    padding: 32px;
+    color: #555;
+    text-align: center;
+
+}
+
+/* Iklan atas footer dummy */
+.iklan-atas-footer {
+    background: #e3e3e3;
+    max-width: 970px;
+    width: 100%;
+    height: 90px;
+    overflow: hidden;
+    margin: 10px auto;
+    position: relative;
+    clear: both;
+    padding: 0;
+}
+
+.iklan-header-atas {
+    max-width: 970px;
+    padding: 0;
+    margin: 10px auto;
+    width: 100%;
+    float: none;
+    overflow: hidden;
+    position: relative;
+    clear: both;
+
+}
+
+.traeducation-dark-mode body{
+    background: black;
+    color: white;
+}
+
+.traeducation-navigation .mdl-navigation__link:hover {
+    border-bottom: 5px solid #ffffff;
+    background: rgba(0,0,0,.12);
+}
+
+.traeducation-drawer-separator{
+    height: 1px;
+    background-color: #dcdcdc;
+    margin: 8px 0;
+}
+
+.traeducation-drawer-separator h3{
+    height: 1px;
+    margin: 2px 0;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+.traeducation-mobile-search-icon{
+    right: 20px;
+    background: #c7c7c7;
+
+}
+
+.traeducation-kotak-pencarian{
+    max-width: 70%;
+    padding-left: 10px;
+}
+
+.traeducation-navigation-link .material-icons{
+    padding-bottom: 6px;
+}
+
+/* Post card */
+.traeducation-post-card {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    display: block;
+
+}
+
+/* Mengatur agar heading latest post ke tengah */
+.traeducation-kolom-post h5 {
+    text-align: center;
+    
+}
